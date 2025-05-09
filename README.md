@@ -20,4 +20,4 @@ Este es un proyecto colaborativo entre **Maik** y **Euge** para crear una sencil
 
 1. Clona este repositorio en tu máquina local usando Git:
    ```bash
-   git clone https://github.com/tu-usuario/palindrome-checker.git
+   git clone https://github.com/Chriss-mk/Palindrome-Checker.git
